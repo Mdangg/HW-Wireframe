@@ -1,0 +1,46 @@
+.container{
+    padding: 20px;
+    border: solid 2px black;
+    text-align: center;
+}
+
+body {
+    background: grey;
+}
+header {
+    padding: 25px;
+    margin-bottom: 25px;
+    background: lightgrey;
+}
+nav {
+ background-color: lightgrey
+}
+
+aside {
+    float: right;
+    background: lightgrey;
+    height:300px;
+    width:50%;
+}
+
+section {
+    float:left;
+    background: lightgrey;
+    height:300px;
+    width:50%;
+}
+
+#headings{
+    display: inline-flex;
+    height: 30px;
+}
+
+article {
+    width:50%;
+    margin-left:126px;
+}
+
+footer {
+    margin-bottom:10px;
+    background-color: lightgrey;
+}
